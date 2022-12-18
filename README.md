@@ -1,5 +1,4 @@
 # GAME-AND-AUCTION-THEORY
-In this project, we have developed two new games based on two different auction types along with live experimentation and a detailed data analysis.
 # Preface 
 In this project, we have developed two new games based on auction and game theory and performed live experimentation, collected data and performed a detailed analysis on it.
 This detailed study included human psychology, game theory mathematics and deviations from theoretical data which we found on practical experimentation.
